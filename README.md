@@ -1,4 +1,5 @@
 Exercise 1 (30%)
+
 Write a function that returns a list of all non-prime numbers between two positive integers 
 supplied as arguments. Use this in a program that asks the user to supply two positive 
 integers, checks that the input is valid, then calls the function and outputs the numbers in 
@@ -12,6 +13,7 @@ inclusive; if the user inputs 312 and 351 (or 351 and 312) these two numbers (wh
 both non-prime) should be included in the output.
 
 Exercise 2 (20%)
+
 Write a function that takes as an argument a list of strings and generates and returns a 
 dict object mapping lengths to lists of strings of that length. For example if the list is 
 [”The”, ”cat”, ”sat”, ”on”, ”a”, ”carpet”]; the dict that is produced 
@@ -21,6 +23,7 @@ supplies the list as an argument to the above function and finally outputs the d
 returned by the function. (The format of the output does not matter.)
 
 Exercise 3 (50%)
+
 The three functions for this exercise should be written in a single .py file. You should not 
 submit any code that calls the functions, although it is strongly recommended that you do 
 produce such code in order to test your functions. The functions must have the names 
