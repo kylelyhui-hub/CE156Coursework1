@@ -5,7 +5,7 @@ def fun1(s):
     # Slicing [::-1] creates a reversed version of the string
     return s_lower == s_lower[::-1]
 
-# --- TEST CASES (Remove before submission) ---
+# TEST CASES (Remove before submission)
 
 # Testing fun1: Palindromes
 print("Testing fun1:")
